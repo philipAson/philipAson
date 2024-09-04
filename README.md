@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+💻 Web Developer- React JS, HTML & CSS, Elixir, Ecto, Phoenix LiveView
+
+📱 Android Developer - Kotlin & Java
+
+📱 IOS Developer - Swift & SwiftUI
+
+🏡 Skåne, Sweden.
 <!--
 **philipAson/philipAson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
