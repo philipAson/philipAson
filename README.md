@@ -6,11 +6,11 @@
 
 📱 IOS Developer - Swift & SwiftUI
 
-🔧 Backend Enthusiast - Passionate about building scalable and efficient backend systems. Experienced with **Node.js**, **Elixir**, and working with **REST APIs**.
+🔧 Backend  - Passionate about learning and building backend systems. Experienced with **Node.js**, **Elixir**, and working with **REST APIs**.
 
-☁️ Cloud & Serverless** - Skilled in handling **Serverless architectures** with **AWS Lambda**, **API Gateway**, and other AWS services like **DynamoDB**, **S3**.
+☁️ Cloud & Serverless** - Experienced in **Serverless architectures** with **AWS Lambda**, **API Gateway**, and other AWS services like **DynamoDB**, **S3**.
 
-🐘 Database - Proficient with **PostgreSQL** for relational database management, including complex queries, schema design, and optimizations.
+🐘 Database - Proficient with **PostgreSQL** for relational database management, including complex queries, schema design.
 
 
 🏡 Skåne, Sweden.
